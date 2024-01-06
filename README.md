@@ -1,4 +1,4 @@
-author: Essien <hanxonessien@gmail.com>
+author: Florence Hanson <talk2florencehanson@gmail.com>
 author: Roseline <roselinedc1308@gmail.com>
 
 # AirBnB Clone - The Console
